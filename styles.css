@@ -1,3 +1,11 @@
 body{
   background-color: pink;
 }
+#txtS{
+  width:600px;
+  height: 200px;
+}
+
+#btnProcess{
+  width: 600px;
+}
