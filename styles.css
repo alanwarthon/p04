@@ -1,8 +1,8 @@
 body{
-  background-color: pink;
+  background-color: gray;
 }
 #form01{
-  background-color: aquamarine;
+  background-color: goldenrod;
   width:800px;
   height: 500px;
   position:absolute;
@@ -11,10 +11,26 @@ body{
   padding: 30px;
 }
 #txtS{
-  width:600px;
+  width:90%;
   height: 200px;
+  display: block;
+  margin:10px auto;
 }
 
 #btnProcess{
-  width: 600px;
+  width: 50%;
+  height: 30px;
+  
+  display:block;
+  margin : 10px auto;
+  
 }
+
+#headTitle{
+  background-color: grey;
+  text-align:center;
+  border: 1px solid black;
+  padding: 0px;
+  margin: 0px;
+}
+
